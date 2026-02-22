@@ -46,3 +46,51 @@ The commands will let you interact with Cargo using its command-line interface.
 [rust]: https://www.rust-lang.org/
 [crates.io]: https://crates.io/
 [GitHub]: https://github.com/rust-lang/cargo/tree/master/src/doc
+> ## Documentation Index
+> Fetch the complete documentation index at: https://docs.starknet.io/llms.txt
+> Use this file to discover all available pages before exploring further.
+
+# Deploy your first contract guide overview
+
+<Warning>
+  If you encounter an issue while following this tutorial, see [Troubleshooting](/build/quickstart/appendix/#troubleshooting).
+</Warning>
+
+## Introduction
+
+Welcome to the *Deploy your first contract* guide! 🥇
+
+This comprehensive tutorial will walk you through the entire process of setting up your development environment, creating your first smart contract, and deploying it on Starknet. By the end of this guide, you'll have hands-on experience with the core tools and workflows used by Starknet developers.
+
+## What you'll learn
+
+This guide is structured as a series of interconnected tutorials that build upon each other:
+
+* [Setting up your Starknet development environment](/build/quickstart/environment-setup/)
+
+* [Generating and understanding the `HelloStarknet` contract](/build/quickstart/hellostarknet/)
+
+* [Declaring, deploying, and interacting with the `HelloStarknet` contract locally](/build/quickstart/devnet/)
+
+* [Deploying and interacting with the `HelloStarknet` contract on Starknet Sepolia](/build/quickstart/sepolia/)
+
+* [Recommended next steps after deploying your first contract](/build/quickstart/next-steps/)
+
+## Prerequisites
+
+Before starting this tutorial, you should have:
+
+* Basic familiarity with command-line interfaces
+* A computer running macOS, Linux, or Windows with WSL
+* An internet connection for downloading tools and interacting with Starknet
+
+No prior experience with Cairo or Starknet is required - this guide is designed for beginners!
+
+## Getting help
+
+If you encounter any issues while following this guide:
+
+1. Check the [troubleshooting section](/build/quickstart/appendix/#troubleshooting) for common problems and solutions
+2. Ask for help in the [Starknet Discord community](https://discord.gg/starknet-community)
+3. Browse the [Starknet community forum](https://community.starknet.io/) for additional resources
+4. 
